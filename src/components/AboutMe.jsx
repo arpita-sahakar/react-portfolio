@@ -28,9 +28,7 @@ function AboutMe() {
             Bachelor's from Calcutta University and Masters degree from Makhanlal University.
             Graduated Bootcamp on Full Stack Web Development from Georgia Tech.
             Used JavaScript , jQuery , MySQL , MongoDB , React , Node.js , Express , GitHub , HTML , CSS , Bootstrap , Jira , Agile methodology
-            for all development. Started career as a trainee, promoted to Jr. developer and then to developer. Worked on enhancement and maintainance of Hotel
-            Management Software. Gathering business requirements from product owner along with Backlog grooming and Sprint planning. Demo session to
-            Team and Product owner
+            for all development. Worked on more than three large scale group projects and multiple meduim and small scale projects.
             {" "}
             <br />
             <br />
