@@ -1,5 +1,5 @@
 import React from "react";
-import {Header, Drawer} from "react-mdl";
+import { Header, Drawer } from "react-mdl";
 import { Link } from "react-router-dom";
 import Nav from "./Nav.jsx";
 import "../container/App.css";
@@ -10,7 +10,7 @@ function PortfolioHeader() {
       <Header
         className="header-color"
         title={
-          <Link style={{ textDecoration: "none", color: "white" }} to="/">
+          <Link style={{ textDecoration: "none", color: "white" }} to="/react-portfolio/">
             My Portfolio
           </Link>
         }
@@ -21,7 +21,7 @@ function PortfolioHeader() {
 
       <Drawer
         title={
-          <Link style={{ textDecoration: "none", color: "black" }} to="/">
+          <Link style={{ textDecoration: "none", color: "black" }} to="/react-portfolio/">
             My Portfolio
           </Link>
         }

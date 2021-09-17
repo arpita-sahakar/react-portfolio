@@ -11,10 +11,10 @@ const Main = () => (
     <Switch>
         <Route exact path="/" render={LandingPage} />
         <Route exact path="/react-portfolio" render={LandingPage} />
-        <Route path="/aboutme" component={AboutMe} />
-        <Route path="/contact" component={Contact} />
-        <Route path="/projects" component={Projects} />
-        <Route path="/resume" component={Resume} />
+        <Route path="/react-portfolio/aboutme" component={AboutMe} />
+        <Route path="/react-portfolio/contact" component={Contact} />
+        <Route path="/react-portfolio/projects" component={Projects} />
+        <Route path="/react-portfolio/resume" component={Resume} />
     </Switch>
 )
 

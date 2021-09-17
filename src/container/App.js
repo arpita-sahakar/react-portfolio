@@ -14,7 +14,7 @@ function App() {
             <Header
               className="header-color"
               title={
-                <Link style={{ textDecoration: "none", color: "white" }} to="/">
+                <Link style={{ textDecoration: "none", color: "white" }} to="/react-portfolio/">
                   My Portfolio
                 </Link>
               }
@@ -24,7 +24,7 @@ function App() {
             </Header>
             <Drawer
               title={
-                <Link style={{ textDecoration: "none", color: "black" }} to="/">
+                <Link style={{ textDecoration: "none", color: "black" }} to="/react-portfolio/">
                   My Portfolio
                 </Link>
               }
