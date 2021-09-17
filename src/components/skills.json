@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Frontend Technologies",
+    "skills": [
+      "HTML5",
+      "CSS",
+      "JQuery",
+      "Javascript",
+      "Bootstrap",
+      "AJAX",
+      "SASS"
+    ]
+  },
+  {
+    "type": "Backend Technologies",
+    "skills": [
+      "ReactJS",
+      "Node",
+      "Express",
+      "Handlebars",
+      "Babel",
+      "React Router DOM",
+      "React Hooks"
+    ]
+  },
+  {
+    "type": "Databases",
+    "skills": ["MySQL", "MongoDB"]
+  },
+  {
+    "type": "ORM",
+    "skills": ["Sequelize", "Mongoose"]
+  },
+  {
+    "type": "Operating Systems",
+    "skills": ["Windows 10", "Linux"]
+  },
+  {
+    "type": "Tools",
+    "skills": [
+      "GIT",
+      "Jira",
+      "Visual Studio Code",
+      "Postman",
+      "MongoDB Compass",
+      "MySql Workbench",
+      "NPM"
+    ]
+  },
+  {
+    "type": "Test and Debug Tools",
+    "skills": ["JEST", "React Developer Tools (Chrome Extension)"]
+  },
+  {
+    "type": "Concepts",
+    "skills": ["DOM", "MVC"]
+  },
+  {
+    "type": "Collaboration tools",
+    "skills": ["Slack"]
+  }
+]
