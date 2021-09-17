@@ -22,22 +22,19 @@ function Resume() {
           <hr style={{ borderTop: "3px solid #e22947" }} />
           <h2>Education</h2>
           <Education
-            startYear={2020}
             endYear={2021}
-            schoolName={"Georgia-Tech"}
+            schoolName={"Georgia Institute of Technology"}
             schoolDesc={"Full Stack Web-Development BootCamp"}
           />
 
           <Education
-            startYear={2011}
-            endYear={2013}
+            endYear={2014}
             schoolName={"Makhanlal Chaturvedi University, India"}
             schoolDesc={"Master's in PR & Advertising"}
           />
 
           <Education
-            startYear={2006}
-            endYear={2009}
+            endYear={2011}
             schoolName={"University of Calcutta, India"}
             schoolDesc={"Bachelor in Arts"}
           />
